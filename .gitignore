@@ -1,0 +1,4 @@
+cifar-10-batches-mat/
+nips-2017-adversarial-learning-development-set/
+*.mat
+*.npy
